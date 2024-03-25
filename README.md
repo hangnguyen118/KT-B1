@@ -1,6 +1,6 @@
-# Getting Started with My App
+# Getting Started with My HTML & CSS Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a simple HTML & CSS project to demonstrate a basic webpage layout.
 
 ## Available Scripts
 
