@@ -4,3 +4,6 @@ git commit -m "create file"
 git branch -M main
 git remote add origin https://github.com/hangnguyen118/KT-B1.git 
 git push --set-upstream origin main
+git add .
+git commit -m "update 1"
+git push
